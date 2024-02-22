@@ -1,0 +1,40 @@
+f //this key does not
+b //this key does exist
+//the '/' is not an item symbol
+abc //multiple item symbols
+
+
+
+
+
+ //door 9
+a //door A
+
+
+
+
+
+b //door G
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//door z
+ //for end door
+this line and below are ignored by program
+
+

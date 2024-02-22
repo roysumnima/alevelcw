@@ -1,0 +1,50 @@
+
+--------------------------
+ IMAGE FILES INSTRUCTIONS
+--------------------------
+
+All images will be displayed as a square in a 12*16 grid - except end.png, which will take up the whole screen.
+
+All the objects (except for items) and characters will still show up, even if you don't have all the image files.
+
+For more information about how characters, see the instructions in the rooms folder.
+
+
+
+The folders in this image folder should contain the following files:
+
+ >images
+     bg.png <--- Background
+     door.png <--- Default for the final door
+     enddoor.png <--- This is what the final door looks like
+     end.png <--- This is what will show up when the player goes through the final door
+     wall.png <--- Indicates a blocked off area
+    
+    >MC <--- Images for the character that the player controls
+        down.png <--- Default image
+        left.png
+        right.png
+        up.png
+ 
+    >items
+        a.png
+        .
+        .
+        .
+        z.png
+
+    >guard
+        guard.png
+
+    >lookout
+        down.png  <--- Default image
+        left.png
+        right.png
+        up.png
+
+    >patrol
+        down.png  <--- Default image
+        left.png
+        right.png
+        up.png
+

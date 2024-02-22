@@ -1,0 +1,44 @@
+
+-------------------
+ HOW TO EDIT ROOMS
+-------------------
+There are a maximum of 36 room files named:
+0.csv, 1.csv, ... , 9.csv, A.csv, B.csv, ..., Z.csv.
+
+Use any of the following symbols to represent objects in the room file.
+Each symbol corresponds to the image files in the images folder.
+
+
+* : The main character’s starting point
+This should only appear in one of the rooms)
+
+
+0-9, A-Z : door to the room with the respective name
+The door represent by 0 will lead to room 0 etc.
+
+
+a-z : Item
+Items can be collected/discarded and stored in the main character's inventory.
+
+
+% : Guard
+This is a completely stationary enemy.
+
+& : Lookout
+This is an enemy that moves towards the main character at all times
+
+&[ ] : Patrol
+Patrol is represented by an '&' followed by any other character, eg '&.'
+This is an enemy that moves between point A and point B.
+To represent these two points, put two of the patrol symbols in the file.
+(Eg. Put two '&.' Symbols in different places in the file.
+
+
+** : Ending door
+This functions as a door. When the main character enters this door, they win the game.
+
+
+/ : Blocked off area
+This shows up like, and acts like, a wall.
+
+

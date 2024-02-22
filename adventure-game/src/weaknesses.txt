@@ -1,0 +1,4 @@
+w //guard
+x //lookout
+y //patrol
+this line and below are ignored by program
